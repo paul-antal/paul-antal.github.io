@@ -1,0 +1,3 @@
+[submodule "front-end-tetris"]
+	path = front-end-tetris
+	url = https://github.com/paul-antal/front-end-tetris
