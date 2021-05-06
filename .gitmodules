@@ -7,3 +7,6 @@
 [submodule "mike-s-puzzle-copy"]
 	path = mike-s-puzzle-copy
 	url = https://github.com/paul-antal/mike-s-puzzle-copy.git
+[submodule "basic-scoreboard"]
+	path = basic-scoreboard
+	url = https://github.com/paul-antal/basic-scoreboard.git
