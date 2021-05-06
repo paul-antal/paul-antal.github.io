@@ -4,3 +4,6 @@
 [submodule "mysteries-of-the-css-display"]
 	path = mysteries-of-the-css-display
 	url = https://github.com/paul-antal/mysteries-of-the-css-display
+[submodule "mike-s-puzzle-copy"]
+	path = mike-s-puzzle-copy
+	url = https://github.com/paul-antal/mike-s-puzzle-copy.git
