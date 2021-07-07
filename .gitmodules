@@ -10,3 +10,6 @@
 [submodule "basic-scoreboard"]
 	path = basic-scoreboard
 	url = https://github.com/paul-antal/basic-scoreboard.git
+[submodule "GameTimer"]
+	path = GameTimer
+	url = https://github.com/paul-antal/GameTimer.git
